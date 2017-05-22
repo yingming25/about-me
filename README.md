@@ -29,7 +29,7 @@ BMI計算 - https://yingming25.github.io/BMI/
 (使用 JavaScript 判斷欄位是否填寫正確)
 
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
-( AJAX + Sass )
+( AJAX + Sass + RWD)
 - - -
 # 自我介紹與期許
 由於求學階段都是學習與資訊相關知識，希望不要白費所學，我很清楚知道自己要朝網頁前端工程師這條路走下去，
