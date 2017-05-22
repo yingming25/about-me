@@ -14,7 +14,7 @@
 * 使用 jQuery 設計動畫效果
 * 串接政府 Open Data 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
 
-##Git / GitHub
+## Git / GitHub
 * 進行版本控制(新增 Commit 、新增 Branch 、 Merge 、暫存等)
 * 開啟 Pages 功能讓網頁能即時呈現
 - - -
