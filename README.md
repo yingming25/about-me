@@ -19,6 +19,9 @@
 * 開啟 Pages 功能讓網頁能即時呈現
 - - -
 # 作品
+高雄旅遊資訊 - https://yingming25.github.io/KStour/
+( AJAX + Sass + RWD)
+
 Camera Store - https://yingming25.github.io/Camera/
 (使用 Sass 將樣式模組化加速網頁開發速度 + jQuery 設計動畫效果)
 
@@ -28,10 +31,8 @@ Camera Store - https://yingming25.github.io/Camera/
 BMI計算 - https://yingming25.github.io/BMI/
 (使用 JavaScript 判斷欄位是否填寫正確)
 
-高雄旅遊資訊 - https://yingming25.github.io/KStour/
-( AJAX + Sass + RWD)
+
 - - -
 # 自我介紹與期許
 由於求學階段都是學習與資訊相關知識，希望不要白費所學，我很清楚知道自己要朝網頁前端工程師這條路走下去，
-在這個時代網頁已成為我們生活的一部分，希望自己不只是個使用者會上網瀏覽網頁，
-還要能開發符合使用者需求的網頁，並同時兼顧使用者體驗。
+在這個時代網頁已成為我們生活的一部分，希望自己能開發符合使用者需求的網頁，並同時兼顧使用者體驗。
