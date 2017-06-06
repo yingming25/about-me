@@ -1,22 +1,23 @@
 # 黃英鳴
 * Birthday： 1992/3/8
 * Education： 崑山科技大學資訊傳播系
-* Location： Nantou(可到外縣市工作)
+* Location： 南投(可到外縣市工作)
 * E-mail： karcnonf@gmail.com
 * Mobile： 0975-655-501
 - - -
 # 前端技能 
-## RWD/Sass
-* 使用 Sass + RWD 設計網頁版型介面
+## Sass/RWD
+* 使用 Sass 減少 CSS 的編寫與增加維護效率，透過模組化加速專案開發
+* 兼容熱門裝置解析度的 RWD 網頁呈現
 
 ## Javascript/Framework
 * 使用 JavaScript 操作網頁 DOM
 * 使用 jQuery 設計動畫效果
-* 串接政府 Open Data 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
+* 撈取政府 Open Data 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
+* 使用 AJAX 介接後端 API 驗證登入與註冊
 
 ## Git / GitHub
-* 進行版本控制(新增 Commit 、新增 Branch 、 Merge 、暫存等)
-* 開啟 Pages 功能讓網頁能即時呈現
+* 進行版本控制(新增 Branch 、新增 Commit 、新增 Tag 、 Reset 等)
 - - -
 # 作品
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
