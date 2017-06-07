@@ -13,7 +13,7 @@
 ## Javascript/Framework
 * 使用 JavaScript 操作網頁 DOM
 * 使用 jQuery 設計動畫效果
-* 撈取政府 Open Data 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
+* 撈取政府 OpenData 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
 * 使用 AJAX 介接後端 API 驗證登入與註冊
 
 ## Git / GitHub
@@ -21,16 +21,16 @@
 - - -
 # 作品
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
-( AJAX + Sass + RWD)
+( AJAX 撈取政府 OpenDate + 使用 Sass 將代碼模組化節省開發時間 + 依據不同解析度編寫 RWD )
 
 Camera Store - https://yingming25.github.io/Camera/
-(使用 Sass 將樣式模組化加速網頁開發速度 + jQuery 設計動畫效果)
+(使用 Sass 編寫 CSS 將樣式變數化與結合 Mixin +  整合 jQuery Plugin 至網頁上)
 
 六角西餐廳 - https://yingming25.github.io/RWDhomework/
-(將 PSD 切成 HTML + CSS + 依據不同解析度設計 RWD)
+(將 PSD 切成 HTML + CSS + 依據不同解析度編寫 RWD)
 
 BMI計算 - https://yingming25.github.io/BMI/
-(使用 JavaScript 判斷欄位是否填寫正確)
+(使用 JavaScript 計算BMI與判斷欄位是否填寫正確)
 
 
 - - -
