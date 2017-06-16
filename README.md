@@ -29,7 +29,7 @@ Camera Store - https://yingming25.github.io/Camera/
 toyStore - https://yingming25.github.io/toyStore/
 (使用 Susy2 ( Grid System ) 進行網頁排版)
 
-六角西餐廳 - https://yingming25.github.io/RWDhomework/
+六角西餐廳 - https://yingming25.github.io/RWD/
 (將 PSD 切成 HTML + CSS + 依據不同解析度編寫 RWD)
 
 BMI計算 - https://yingming25.github.io/BMI/
