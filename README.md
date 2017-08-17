@@ -18,7 +18,7 @@
 * 使用 Vue.js 建立SPA
 
 ## Git / GitHub
-* 進行版本控制(新增 Branch 、新增 Commit 、新增 Tag 、 Reset 等)
+* 進行版本控制(新增 Branch 、合併merge等)
 - - -
 # 作品
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
