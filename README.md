@@ -15,10 +15,10 @@
 * 使用 jQuery 設計動畫效果
 * 撈取政府 OpenData 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
 * 使用 AJAX 介接後端 API 驗證登入與註冊
-* 使用 Vue.js 建立SPA
+* 使用 Vue.js 建立 SPA
 
 ## Git / GitHub
-* 進行版本控制(新增 Branch 、合併merge等)
+* 進行版本控制(commit 版本異動 、新增 Branch 、合併merge等)
 - - -
 # 作品
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
