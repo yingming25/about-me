@@ -15,7 +15,7 @@
 * 使用 JavaScript 操作網頁 DOM
 * 使用 jQuery 實現動畫效果
 * 撈取政府 OpenData 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
-* 使用 AJAX 介接後端 API 驗證登入與註冊
+* 使用 AJAX 介接 API 
 
 ## Git / GitHub
 * 建立分支 新增Commit
@@ -26,20 +26,19 @@
 (將 PSD 切成 HTML + CSS + 依據不同解析度編寫 RWD)
 
 台北市颱風災情動態 - https://yingming25.github.io/typhoon/
-(使用Vue router + Vue resource串接OpenData)
+(透過 Vue Resource 串接 OpenData + 使用 Vue Router 建立 SPA)
 
 Camera Store - https://yingming25.github.io/Camera/
-(使用 Sass 編寫 CSS 將樣式變數化與結合 Mixin +  整合 jQuery Plugin 到網頁上)
+(使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS  +  整合 jQuery Plugin 到網頁上)
 
 toyStore - https://yingming25.github.io/toyStore/
 (使用 Susy2 ( Grid System ) 進行網頁排版)
 
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
-( AJAX 撈取政府 OpenDate + 使用 Sass 將代碼模組化節省開發時間 + 依據不同解析度編寫 RWD )
-
+( AJAX 撈取政府 OpenData + 使用 Sass 將代碼模組化節省開發時間 + 依據不同解析度編寫 RWD )
 
 BMI計算 - https://yingming25.github.io/BMI/
-(使用 JavaScript 計算BMI與判斷欄位是否填寫正確)
+(使用 JavaScript 計算 BMI 與判斷欄位是否填寫正確)
 
 
 - - -
