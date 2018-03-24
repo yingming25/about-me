@@ -4,45 +4,60 @@
 * Location： 南投(可到外縣市工作)
 * E-mail： karcnonf@gmail.com
 * Mobile： 0975-655-501
+---
+# Experience：
+
+* 在台中共同工作空間 Monospace 參與多人協作專案
+
 - - -
-# 前端技能 
-## SCSS/RWD
-* 使用 SCSS 編寫 CSS 樣式，增加多人協作維護性
-* 依據主流的各種裝置解析度，作出適合該解析度的響應式網頁
+# Skills
+
+## HTML
+* 使用語意化的 HTML Tag 撰寫網頁結構
+
+## CSS/RWD
+* 使用語意化的 CSS 命名以便多人維護
+* 使用 Gulp 編譯 SCSS
+* 依據主流的裝置，做出能夠自適應各種解析度的響應式網頁
 
 
 ## Javascript/Framework
-* 使用 JavaScript 操作網頁 DOM
-* 使用 jQuery 實現動畫效果
-* 撈取政府 OpenData 資料( JSON 格式)設計可讓使用者操作、查詢資料的網頁
-* 使用 AJAX 介接 API 
+* 使用 AJAX 串接 API 服務 (政府 OpenData、Firebase、Facebook Login、OpenWeatherMap ) ，做出讓使用者操作的應用
+* 使用 Vue CLI 開發小型專案，並將 ES6 語法運用在專案中
+* 使用 jQuery Plugin 做出動畫效果
+
 
 ## Git / GitHub
-* 建立分支 新增Commit
+* 使用指令進行 git 操作
+* 完成每個小功能後能習慣性 commit 並描述此次內容
+
 
 - - -
-# 作品
-六角西餐廳 - https://yingming25.github.io/RWD/
-(將 PSD 切成 HTML + CSS + 依據不同解析度編寫 RWD)
+# Project
 
 台北市颱風災情動態 - https://yingming25.github.io/typhoon/
-(透過 Vue Resource 串接 OpenData + 使用 Vue Router 建立 SPA)
-
-Camera Store - https://yingming25.github.io/Camera/
-(使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS  +  整合 jQuery Plugin 到網頁上)
-
-toyStore - https://yingming25.github.io/toyStore/
-(使用 Susy2 ( Grid System ) 進行網頁排版)
+(使用 Vue CLI 開發小型專案 + 使用 Vue-resource 撈取政府 OpenData 做出便民的應用 )
 
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
-( AJAX 撈取政府 OpenData + 使用 Sass 將代碼模組化節省開發時間 + 依據不同解析度編寫 RWD )
+(使用 AJAX 撈取政府 OpenData  做出便民的應用 + 使用 Sass 將樣式模組化以節省樣式修改時間 + RWD )
 
 BMI計算 - https://yingming25.github.io/BMI/
-(使用 JavaScript 計算 BMI 與判斷欄位是否填寫正確)
+(使用原生 JavaScript 計算 BMI)
+
+Camera Store - https://yingming25.github.io/Camera/
+(使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS  +   jQuery 動畫特效 Plugin )
+
+toyStore - https://yingming25.github.io/toyStore/
+(使用 Susy2 進行網頁排版)
+
+六角西餐廳 - https://yingming25.github.io/RWD/
+(將 PSD 切成 HTML + CSS + RWD)
+
+
+
 
 
 - - -
 # 自我介紹與期許
-在年後投入前端，時常關注前端社群，發現前端的夥伴都很正向熱愛分享，
-希望自己也能開發出實用便民的應用，
-透過分享來得到喜悅，生活上任何不便的地方都是新的機會，保持不滿足的心不斷學習新知。
+
+你好，目前持續在投入前端開發，了解到協作開發上需要與夥伴持續溝通、同步資訊、發現與解決問題，這也是前端工程師這份職缺吸引我的地方，團隊一起完成一件事的感覺真的很棒，期許自己能夠保持好奇心多嘗試各種領域的結合來創造各種可能，我想這會很有趣。
