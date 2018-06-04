@@ -17,7 +17,7 @@
 
 ## CSS/RWD
 * 使用語意化的 CSS 命名以便多人維護
-* 使用 Gulp 編譯 SCSS
+* 使用 SCSS 撰寫網頁樣式
 * 依據主流的裝置，做出能夠自適應各種解析度的響應式網頁
 
 
@@ -29,11 +29,13 @@
 
 ## Git / GitHub
 * 使用指令進行 git 操作
-* 完成每個小功能後能習慣性 commit 並描述此次內容
+* 完成每個小功能後能習慣性 commit 並描述此次內容修改的原因
 
 
 - - -
 # Project
+
+
 
 台北市颱風災情動態 - https://yingming25.github.io/typhoon/
 (使用 Vue CLI 開發小型專案 + 使用 Vue-resource 撈取政府 OpenData 做出便民的應用 )
@@ -44,6 +46,9 @@
 BMI計算 - https://yingming25.github.io/BMI/
 (使用原生 JavaScript 計算 BMI)
 
+訂便當 - https://goodfood-main.firebaseapp.com/#/
+(使用 Vue CLI  + firebase)
+
 Camera Store - https://yingming25.github.io/Camera/
 (使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS  +   jQuery 動畫特效 Plugin )
 
@@ -52,10 +57,6 @@ toyStore - https://yingming25.github.io/toyStore/
 
 六角西餐廳 - https://yingming25.github.io/RWD/
 (將 PSD 切成 HTML + CSS + RWD)
-
-
-
-
 
 - - -
 # 自我介紹與期許
