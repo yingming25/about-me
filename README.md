@@ -41,7 +41,7 @@
 
 # Project
 
-訂便當 - https://goodfood-main.firebaseapp.com/#/
+訂便當 - https://goodfood-beta.firebaseapp.com/#/
 (使用 Vue CLI + firebase)
 
 台北市颱風災情動態 - https://yingming25.github.io/typhoon/
