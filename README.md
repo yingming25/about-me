@@ -42,12 +42,12 @@
 # Project
 
 訂便當 - https://goodfood-beta.firebaseapp.com/#/
-(使用 Vue CLI + firebase)
+(使用 Vue CLI  + firebase )
 
 台北市颱風災情動態 - https://yingming25.github.io/typhoon/
 (使用 Vue CLI 開發小型專案 + 使用 Vue-resource 撈取政府 OpenData 做出便民的應用 )
 
-未來五天天氣預報 - http://output.jsbin.com/rajiwi/1
+未來五天天氣預報 - https://output.jsbin.com/zavidet/1
 (使用 Vue.js + axios 撈取 OpenWeather API 資料)
 
 高雄旅遊資訊 - https://yingming25.github.io/KStour/
@@ -60,13 +60,15 @@ Camera Store - https://yingming25.github.io/Camera/
 (使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS + jQuery 動畫特效 Plugin )
 
 toyStore - https://yingming25.github.io/toyStore/
-(使用 Susy2 進行網頁排版)
+(使用 Susy2 網格系統進行網頁排版)
 
 六角西餐廳 - https://yingming25.github.io/RWD/
-(將 PSD 切成 HTML + CSS + RWD)
+(將設計稿切成網頁 + RWD)
 
 ---
 
-# 自我介紹與期許
+# 未來規劃
 
-你好，目前持續在投入前端開發，了解到協作開發上需要與夥伴持續溝通、同步資訊、發現與解決問題，這也是前端工程師這份職缺吸引我的地方，團隊一起完成一件事的感覺真的很棒，期許自己能夠保持好奇心多嘗試各種領域的結合來創造各種可能，我想這會很有趣。
+希望能對前端能有更深入的了解，例如學習一套前端框架，會先去了解他的原始碼以及專案架構，來思考別人為什麼這樣做的原因，希望透過了解整套框架的脈絡讓自己在開發上更順手，另外在程式碼的可讀性、維護性、擴充性上希望能透過與別人交流協作下有更多元的認識，讓自己能夠有自信的告訴別人自己為什麼要這麼寫，我也認為在部落格文章的經營也是很值得花時間投入的，很多時候受到了別人的心得文章的幫助，希望自己也能夠幫助到別人。
+
+
