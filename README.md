@@ -41,34 +41,61 @@
 
 # Project
 
-訂便當 - https://goodfood-beta.firebaseapp.com/#/
+* __訂便當__ https://goodfood-beta.firebaseapp.com/#/
 (使用 Vue CLI  + firebase )
+  * 負責項目
+    1. 新增店家頁、新增菜單頁、菜單頁(不含slack 通知)、訂單結果頁製作
+    2. 與 Mentor、組員協調開會時間
 
-台北市颱風災情動態 - https://yingming25.github.io/typhoon/
+  * 工作上難題
+    1. 問題：在遇到一個新功能不知道該做到什麼程度
+
+        解決辦法：先寫出能夠符合需求又做的出來的
+
+    2. 問題： 背景圖片無法渲染出來
+
+        解決辦法： 必須在 data 中定義路徑讓 webpack 可以讀到
+    
+    3. 問題： 資料刪除時畫面不會跟著被刪掉
+
+        解決辦法： 透過 $Vue.delete 來刪除
+    
+    4. 問題： issue 太多
+
+        解決辦法： 挑選最重要的 issue 來解決
+
+
+* __台北市颱風災情動態__ - https://yingming25.github.io/typhoon/
 (使用 Vue CLI 開發小型專案 + 使用 Vue-resource 撈取政府 OpenData 做出便民的應用 )
 
-未來五天天氣預報 - https://output.jsbin.com/zavidet/1
+* __未來五天天氣預報__ - https://output.jsbin.com/zavidet/1
 (使用 Vue.js + axios 撈取 OpenWeather API 資料)
 
-高雄旅遊資訊 - https://yingming25.github.io/KStour/
+* __高雄旅遊資訊__ - https://yingming25.github.io/KStour/
 (使用 AJAX 撈取政府 OpenData 做出便民的應用 + 使用 Sass 將樣式模組化以節省樣式修改時間 + RWD )
 
-BMI 計算 - https://yingming25.github.io/BMI/
+* __BMI 計算__ - https://yingming25.github.io/BMI/
 (使用原生 JavaScript 計算 BMI)
 
-Camera Store - https://yingming25.github.io/Camera/
+* __Camera Store__ - https://yingming25.github.io/Camera/
 (使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS + jQuery 動畫特效 Plugin )
 
-toyStore - https://yingming25.github.io/toyStore/
+* __toyStore__ - https://yingming25.github.io/toyStore/
 (使用 Susy2 網格系統進行網頁排版)
 
-六角西餐廳 - https://yingming25.github.io/RWD/
+* __六角西餐廳__ - https://yingming25.github.io/RWD/
 (將設計稿切成網頁 + RWD)
 
 ---
 
-# 未來規劃
+# 自我學習
+  * 透過 Udemy 學習新技術
+  * 訂出需求目標實作 side project
+  * 閱讀 Medium 技術文章
 
-希望能對前端能有更深入的了解，例如學習一套前端框架，會先去了解他的原始碼以及專案架構，來思考別人為什麼這樣做的原因，希望透過了解整套框架的脈絡讓自己在開發上更順手，另外在程式碼的可讀性、維護性、擴充性上希望能透過與別人交流協作下有更多元的認識，讓自己能夠有自信的告訴別人與自己為什麼要這麼寫，我也認為在部落格文章的經營也是很值得花時間投入的，很多時候受到了別人的心得文章的幫助，希望自己也能夠幫助到別人。
+# 未來規劃
+  * 學習規劃前端架構
+  * 了解原始碼,開發自己的 component
+  * 經營部落格撰寫技術文章
 
 
