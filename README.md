@@ -65,11 +65,11 @@
 * [__未來五天天氣預報__](https://output.jsbin.com/zavidet/1) - 
 (使用 Vue.js + axios 撈取 OpenWeather API 資料)
 
+* [__台中公車到站時刻查詢__](https://yingming25.github.io/TaichungBusInfo/) -
+(使用 AJAX 撈取 OpenData + 串接 Firebase Database 與 Facebook Login)
+
 * [__高雄旅遊資訊__](https://yingming25.github.io/KStour/) - 
 (使用 AJAX 撈取政府 OpenData 做出便民的應用 + 使用 Sass 將樣式模組化以節省樣式修改時間 + RWD )
-
-* [__BMI 計算__](https://yingming25.github.io/BMI/) - 
-(使用原生 JavaScript 計算 BMI)
 
 * [__六角西餐廳__](https://yingming25.github.io/RWD/) - 
 (將設計稿切成網頁 + RWD)
@@ -84,9 +84,7 @@
 
 # 未來規劃
 * 持續學習前端技術並了解框架、工具想解決的問題,
-
 * 多嘗試解決一個問題的不同方法
-* 經營部落格撰寫技術文章
-* 參與技術交流聚會、論壇
+* 撰寫測試
 
 
