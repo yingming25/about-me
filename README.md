@@ -59,20 +59,15 @@
 
         解決辦法： 透過 $Vue.delete 來刪除
 
-
-* [__台中公車到站時間查詢__](https://yingming25.github.io/TaichungBusInfo/) - (使用 AJAX 撈取 OpenData + 串接 Firebase Database 來實現加入最愛功能 + Facebook Login)
-
 * [__未來五天天氣預報__](https://output.jsbin.com/zavidet/1) - 
 (使用 Vue.js + axios 撈取 OpenWeather API 資料)
 
 * [__台中公車到站時刻查詢__](https://yingming25.github.io/TaichungBusInfo/) -
-(使用 AJAX 撈取 OpenData + 串接 Firebase Database 與 Facebook Login)
+(使用 AJAX 撈取 OpenData + 串接 Firebase Database 來實現加入最愛功能 與 Facebook Login)
 
 * [__高雄旅遊資訊__](https://yingming25.github.io/KStour/) - 
 (使用 AJAX 撈取政府 OpenData 做出便民的應用 + 使用 Sass 將樣式模組化以節省樣式修改時間 + RWD )
 
-* [__六角西餐廳__](https://yingming25.github.io/RWD/) - 
-(將設計稿切成網頁 + RWD)
 
 * [__Camera Store__](https://yingming25.github.io/Camera/) - 
 (使用 Sass 將樣式變數化與結合 Mixin 編寫 CSS + jQuery 動畫特效 Plugin )
